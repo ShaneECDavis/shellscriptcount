@@ -4,4 +4,4 @@ You are also asked if you want to rename your file. During the next running of t
 line count changed, or file name changed. <br /> 
 <br />
 
-#To use: simply prompt 'tool.sh <directoryname>'
+#To use: simply prompt 'tool.sh directory_name'
